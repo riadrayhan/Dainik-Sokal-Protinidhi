@@ -1,4 +1,4 @@
-# dainik_sokal_web
+# dainik_sokal_protinishi_webview_app
 
 A new Flutter project.
 
